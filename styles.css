@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+
+}
+.navs{
+    margin-right: 60px;
+}
+
+.mid-section{
+    font-size:large;
+   background: url("resources/wooden.jpg");
+    background-size:cover;
+    background-position: center;
+    height: 75vh;
+}
+.mid-a{
+    text-align: center;
+}
+
+
+#usr,#user{
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.lower-section{
+    height: 40vh;
+}
+.footer{
+    height: 20vh;
+}
+.f1{
+    text-align: center;
+}
+.pf{
+    width: 40%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.reg{
+    border-radius: 10px;
+}
+.btnmwisho{
+    justify-content: center;
+}
